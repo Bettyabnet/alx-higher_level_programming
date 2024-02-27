@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /*
- * a script that prints My number: <first argument 
+ * a script that prints My number: <first argument
  * converted in integer> if the first argument
  */
 const arg = process.argv[2];
